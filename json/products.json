@@ -1,0 +1,119 @@
+[
+    
+    {
+        "id": 1,
+        "name": "rainbynurain full women outfit",
+        "price": "$22.00",
+        "images": [
+            "images/img/product1.jpg",
+            "",
+            ""
+        ],
+        "category": "Woman",
+        "isTrending":true,
+        "description": "The rainbynurain full women outfit is  versatile, can be styled in multiple ways. Made from soft, breathable fabric."
+    },
+     
+     
+    {
+        "id": 2,
+        "name": "rainbynurain go to school",
+        "price": "$22.00",
+        "images": [
+            "images/img/product2.jpg",
+            "",
+            ""
+        ],
+        "category": "Woman",
+        "isTrending": true,
+        "description": "Ultimate Crop Bandeau Tops are ideal for layering or wearing on their own. Made with soft, stretchy fabric for a comfortable fit."
+    },
+     
+    {
+        "id": 3,
+        "name": "Pieces Short Sleeve Sweater",
+        "price": "$100.00",
+        "images": [
+            "images/img/product3.jpg",
+            "",
+            ""
+        ],
+        "category": "Man",
+        "isTrending": true,
+        "description": "The Pieces Short Sleeve Sweater is a cozy and stylish addition to your wardrobe. Made from soft, breathable material."
+    },
+    {
+        "id": 4,
+        "name": "Simona Ribbed Cardigan",
+        "price": "$82.00",
+        "images": [
+            "images/img/product6.jpg",
+            "",
+            ""
+        ],
+        "category": "Bags",
+        "isTrending": true,
+        "description": "Simona Ribbed Cardigan is perfect for layering. Its ribbed texture and versatile design make it a must-have for any season."
+    },
+    {
+        "id": 5,
+        "name": "Oversized T-shirt Multi-colors",
+        "price": "$50.00",
+        "images": [
+            "images/img/product5.jpg",
+            ""
+        ],
+        "category": "Man",
+        "isTrending": true,
+        "description": "The Oversized T-shirt in Multi-colors offers a relaxed fit and vibrant design. Ideal for casual and comfortable wear."
+    },
+     
+    
+     
+     
+     
+     
+    {
+        "id": 6,
+        "name": "Jacket With Hood In Stone",
+        "price": "$266.00",
+        "images": [
+            "images/img/product4.jpg",
+            ""
+        ],
+        "category": "Man",
+        "isTrending":true,
+        "description": "This Jacket With Hood In Stone provides excellent warmth and style. Ideal for layering during cooler weather."
+    },
+     
+     
+    
+    {
+        "id": 7,
+        "name": "Summer Tee",
+        "price": "$71.00",
+        "images": [
+            "images/img/product7.jpg",
+            ""
+        ],
+        "category": "Woman",
+        "isTrending":true,
+        "description": "Summer Tee add a whimsical touch to any outfit. Made with high-quality materials for lasting wear."
+    },
+     
+     
+     
+    {
+        "id": 8,
+        "name": "Tee Sun Bleached",
+        "price": "$199.00",
+        "images": [
+            "images/img/product8.jpg",
+            "",
+            ""
+        ],
+        "isTrending":true,
+        "category": "Man",
+        "description": "The Sun Tee Bleached offers a stylish and trendy look with its sun-bleached finish. Perfect for layering over casual outfits, this tee is made from high-quality denim and features a comfortable fit. Ideal for adding a touch of edge to your wardrobe."
+    }
+]
